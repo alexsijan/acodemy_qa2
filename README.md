@@ -1,4 +1,4 @@
-##***Is there life after January 11th?***
+## ***Is there life after January 11th?***
 
 **The government plans to consider the issue of regulating the lives of Latvians after January 11 next year, when the state of emergency in the country is officially due to end, next Tuesday, December 21.**
 
