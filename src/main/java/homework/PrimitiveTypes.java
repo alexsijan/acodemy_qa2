@@ -7,7 +7,7 @@ public class PrimitiveTypes {
 
         byte smallestNumberForThisType = -128;
         byte verySmallNumber = -120;
-        byte SmallNumber = 0;
+        byte smallNumber = 0;
         byte anotherSmallNumber = 1;
         byte numberOfSuitcases = 3;
         byte wardrobesInTheApartment = 4;
@@ -17,7 +17,7 @@ public class PrimitiveTypes {
         byte largestNumberForThisType = 127;
         System.out.println(smallestNumberForThisType);
         System.out.println(verySmallNumber);
-        System.out.println(SmallNumber);
+        System.out.println(smallNumber);
         System.out.println(anotherSmallNumber);
         System.out.println(numberOfSuitcases);
         System.out.println(wardrobesInTheApartment);
@@ -63,7 +63,7 @@ public class PrimitiveTypes {
         int statesIndia = 28;
         int regionsRussia = 46;
         int municipalitiesLatvia = 494;
-        int BalticStates = 3;
+        int balticStates = 3;
         int regionsUkraine = 24;
         int regionsBelarus = 6;
         int countriesWorld = 126 + 126;
@@ -73,7 +73,7 @@ public class PrimitiveTypes {
         System.out.println(statesIndia);
         System.out.println(regionsRussia);
         System.out.println(municipalitiesLatvia);
-        System.out.println(BalticStates);
+        System.out.println(balticStates);
         System.out.println(regionsUkraine);
         System.out.println(regionsBelarus);
         System.out.println(countriesWorld);
@@ -89,7 +89,7 @@ public class PrimitiveTypes {
         long squareOfBelarus = 207600L;
         long squareOfBelgium = 30689L;
         long lithuaniaSquare = 65300L;
-        long EstoniaSquare = 45339L;
+        long estoniaSquare = 45339L;
         long squareOfFrance = 543940L;
         long austriaSquare = 83879L;
         long landArea = 510100000L;
@@ -100,7 +100,7 @@ public class PrimitiveTypes {
         System.out.println(squareOfBelarus);
         System.out.println(squareOfBelgium);
         System.out.println(lithuaniaSquare);
-        System.out.println(EstoniaSquare);
+        System.out.println(estoniaSquare);
         System.out.println(squareOfFrance);
         System.out.println(austriaSquare);
         System.out.println(landArea);
@@ -137,27 +137,27 @@ public class PrimitiveTypes {
 
         // Double Data Types
 
-        double thePopulationOfLatviaInMillions = 1.893223;
-        double thePopulationOfRussiaInMillions = 146.171015;
-        double thePopulationOfLithuaniaInMillions = 3.0538;
-        double thePopulationOfBelarusInMillions = 9.399;
-        double thePopulationOfBrazilInMillions = 212.6;
-        double thePopulationOfEstoniaInMillions = 1.331;
-        double thePopulationOfAustriaInMillions = 9.045673;
-        double thePopulationOfGermanyInMillions = 83.756658;
-        double thePopulationOfBelgiumInMillions = 11.718929;
-        double thePopulationOfUkraineInMillions = 41.588354;
+        double populationOfLatviaInMillions = 1.893223;
+        double populationOfRussiaInMillions = 146.171015;
+        double populationOfLithuaniaInMillions = 3.0538;
+        double populationOfBelarusInMillions = 9.399;
+        double populationOfBrazilInMillions = 212.6;
+        double populationOfEstoniaInMillions = 1.331;
+        double populationOfAustriaInMillions = 9.045673;
+        double populationOfGermanyInMillions = 83.756658;
+        double populationOfBelgiumInMillions = 11.718929;
+        double populationOfUkraineInMillions = 41.588354;
 
-        System.out.println(thePopulationOfLatviaInMillions);
-        System.out.println(thePopulationOfRussiaInMillions);
-        System.out.println(thePopulationOfLithuaniaInMillions);
-        System.out.println(thePopulationOfBelarusInMillions);
-        System.out.println(thePopulationOfBrazilInMillions);
-        System.out.println(thePopulationOfEstoniaInMillions);
-        System.out.println(thePopulationOfAustriaInMillions);
-        System.out.println(thePopulationOfGermanyInMillions);
-        System.out.println(thePopulationOfBelgiumInMillions);
-        System.out.println(thePopulationOfUkraineInMillions);
+        System.out.println(populationOfLatviaInMillions);
+        System.out.println(populationOfRussiaInMillions);
+        System.out.println(populationOfLithuaniaInMillions);
+        System.out.println(populationOfBelarusInMillions);
+        System.out.println(populationOfBrazilInMillions);
+        System.out.println(populationOfEstoniaInMillions);
+        System.out.println(populationOfAustriaInMillions);
+        System.out.println(populationOfGermanyInMillions);
+        System.out.println(populationOfBelgiumInMillions);
+        System.out.println(populationOfUkraineInMillions);
 
         System.out.println("Double minimal value: " + Double.MIN_VALUE);
         System.out.println("Double maximal value:" + " " + Double.MAX_VALUE);
@@ -238,13 +238,13 @@ public class PrimitiveTypes {
         String myCountry = "Latvia";
         String myPlanet = "Earth";
         String myDogsNameIs = "Arturo";
-        String TvBrand = "Samsung";
+        String tvBrand = "Samsung";
 
         System.out.println(myCityIs);
         System.out.println(myCountry);
         System.out.println(myPlanet);
         System.out.println(myDogsNameIs);
-        System.out.println(TvBrand);
+        System.out.println(tvBrand);
 
         // My name is Alexander I am 51 years old I was tortured to invent names of variables!
 
