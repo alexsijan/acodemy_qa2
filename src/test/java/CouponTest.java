@@ -1,15 +1,12 @@
 import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
-import static org.hamcrest.MatcherAssert.assertThat;
-import static org.hamcrest.Matchers.containsString;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class CouponTest {
+
     WebDriver driver;
 
     @BeforeEach
@@ -25,7 +22,6 @@ public class CouponTest {
     assertEquals("Online shop – acodemy – Just another WordPress site", driver.getTitle());
 //   assertThat(driver.getTitle(), containsString("nline shop"));
     }
-
 
     @AfterEach
     public void closePage() {
